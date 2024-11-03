@@ -4,7 +4,7 @@ Deploy an attack/defend cybersecurity homelab.
 # Topology 
 Provider: AWS.
 
-![Topology](https://github.com/collinsmc23/cloud-cybersecurity-homelab/blob/main/images/Cloud-hosted%20Cybersecurity%20Homelab.png)
+![Topology](https://file.io/y1CYVS4N8XwP)
 
 
 # Download 
