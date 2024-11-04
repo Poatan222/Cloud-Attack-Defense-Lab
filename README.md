@@ -1,10 +1,10 @@
-# ☁ Cloud Attack Defense Homelab
+![image](https://github.com/user-attachments/assets/22df2856-b697-4964-8c36-31d3dc6d6bf5)# ☁ Cloud Attack Defense Homelab
 Deploy an attack/defend cybersecurity homelab.
 
 # Architecture 
 Provider: AWS.
 
-![image](https://github.com/user-attachments/assets/745396ea-435d-429c-9c51-d3e269f4d7ed)
+![image](https://github.com/user-attachments/assets/0b106b94-6f84-4845-b1f8-a651f5010828)
 
 
 # Download 
