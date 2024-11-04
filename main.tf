@@ -5,7 +5,7 @@ resource "aws_vpc" "homelab_vpc" {
   enable_dns_hostnames = true
 
   tags = {
-    Name = "Cybersecurity Homelab VPC"
+    Name = "Cybersecurity Homelab VPC Network"
   }
 
 }
