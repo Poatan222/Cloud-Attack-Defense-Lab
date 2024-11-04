@@ -1,10 +1,10 @@
 # ☁ Cloud Attack Defense Homelab
 Deploy an attack/defend cybersecurity homelab.
 
-# Topology 
+# Architecture 
 Provider: AWS.
 
-![Topology](https://file.io/y1CYVS4N8XwP)
+![image](https://github.com/user-attachments/assets/745396ea-435d-429c-9c51-d3e269f4d7ed)
 
 
 # Download 
