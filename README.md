@@ -22,6 +22,6 @@ The entire repository is deployed using terraform from hashicorp. It will spin u
 
 `terraform apply -var="aws-key"`: Specify the public key name created in AWS in EC2 -> Network & Security.
 - Add Public Key Name in between double quotes.
-# Note: Replace "your-key-name" with your AWS EC2 key pair name
+Note: Replace "your-key-name" with your AWS EC2 key pair name
 
 `terraform destory`: # Remove all the created resources.
