@@ -8,19 +8,20 @@ Provider: AWS.
 
 
 # Download 
-`git clone https://github.com/collinsmc23/cloud-cybersecurity-homelab.git`
+`git clone https://github.com/Poatan222/Cloud-Attack-Defense-Lab.git`
 
-`cd cloud-cybersecurity-homelab`
+`cd Cloud-Attack-Defense-Lab`
 
-# Deploy 
+# Deploy [Infrastructure Deployment Steps:]
 
-Download Terraform: https://developer.hashicorp.com/terraform/downloads 
+The entire repository is deployed using terraform from hashicorp. It will spin up the required resources as mentioned in the architecture diagram. while this is basic plan to perform attack and defense; feel free to experiment the changes in the given architecture. 
 
 `terraform init`: Initialize Terraform.
 
-`terraform plan`: Plan Terraform configuration.
+`terraform plan`: Plan Terraform configuration. (Will load the requried terraform files)
 
 `terraform apply -var="aws-key"`: Specify the public key name created in AWS in EC2 -> Network & Security.
 - Add Public Key Name in between double quotes.
+# Note: Replace "your-key-name" with your AWS EC2 key pair name
 
-`terraform destory`: Destroy AWS infrastructure.
+`terraform destory`: # Remove all the created resources.
