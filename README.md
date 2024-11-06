@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/22df2856-b697-4964-8c36-31d3dc6d6bf5)# ☁ Cloud Attack Defense Homelab
+☁ Cloud Attack Defense Homelab
 Deploy an attack/defend cybersecurity homelab.
 
 # Architecture 
